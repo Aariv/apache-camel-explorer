@@ -1,0 +1,64 @@
+
+Introducing Apache Camel
+
+	Architecture of Camel	
+	Message model of Camel	
+
+Routing Management with Camel
+
+	Generating Java routes	
+	The endpoints	
+	Using multicasting and message filter	
+
+Transforming the Data with Camel
+	Introducing data transformation	
+	Using Camel type converters	
+	Using the data format of Camel CSV and JSON	
+	Data transformation with Java and EIPs	
+	Providing Data format with Camel	
+	Transforming XML
+	Processes of transformation with templates	
+
+Camel and Beans
+	Using the registries of Bean	
+	The pattern of Service Activator	
+	Method-selection algorithm of Camel	
+	Invocating Beans from Java	
+	Bean’s parameter binding	
+
+Error Handling
+	Camel’s Error handlers	
+	Comprehending error handling	
+
+Using the Components of Camel
+	JMS component	
+	Introducing the Camel components	
+	FTP and File components	
+	JPA and JDBC components	
+	CXF component for web-based services	
+	Networking with MINA component	
+	Timer components	
+
+Working with Enterprise Integration Patterns
+	Routing Slip	
+	Load Balancer	
+	Aggregator
+	Splitter
+	Dynamic Router	
+
+Camel’s Transactions
+	Transactions utility and configurations	
+	Fundamentals of Transaction	
+	Client EIP of Transaction	
+	
+Scalability and Concurrency
+	Threading and Synchronizing	
+	Monitoring JVM level’s health	
+	Concurrency usage	
+	Using Camel with JMX	
+	Monitoring the health of the network level	
+
+
+
+Apache Kafka + Apache Camel
+https://medium.com/@zengcode/apache-kafka-apache-camel-c9996a07d2f3

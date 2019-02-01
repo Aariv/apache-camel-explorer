@@ -1,0 +1,89 @@
+Fully Automated CI/CD
+Oracle Migration
+GCP
+Lift and shift
+Devops
+
+Broadcom -
+Certification - Kubernetes/ AWS / GCP - Cost + Bonus
+
+Marta 
+Cloud Endure
+	Automatic Discovery platform
+Database Vendors
+	
+KloudLearn
+
+One Database to another
+	Data Migration
+	Move data over different databases.
+
+
+Devops
+	
+
+WSO2 Microservices
+
+Features
+	Lightweight and fast runtime
+	
+	Simple Development/
+
+
+bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic bid-meta --from-beginning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
